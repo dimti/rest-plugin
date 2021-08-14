@@ -1,0 +1,21 @@
+{
+    "name": "mohsin/rest-plugin",
+    "type": "october-plugin",
+    "description": "Mohsin rest plugin",
+    "keywords": [
+        "october",
+        "cms",
+        "rest",
+        "plugin"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saifur Rahman Mohsin",
+            "homepage": "https://github.com/SaifurRahmanMohsin"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
